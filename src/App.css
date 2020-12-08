@@ -1,0 +1,25 @@
+* {
+    margin: 0
+}
+
+.app {
+    background-color: #fafafa;
+}
+
+.signup_form {
+    display: flex;
+    flex-direction: column;
+}
+
+.Header {
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.Post {
+    padding: 20px;
+}

@@ -1,0 +1,12 @@
+.header {
+    padding: 20px;
+    object-fit: contain;
+    height: 3vh;
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    height: 7vh;
+}
